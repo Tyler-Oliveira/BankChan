@@ -1,11 +1,11 @@
-# ChantGPT 🏆
+# USDC-Chan 💙
 
-AI-powered World Cup anthem generator. Users describe their team and get back a real sung song with lyrics and music.
+AI-powered USDC mascot experience. Users describe a vibe, meme, or crypto scenario and get back a custom USDC-Chan response with personality, visuals, and content generation.
 
 ## Files
 
 - `index.html` — the website frontend
-- `api/generate.js` — the backend that calls Claude + ElevenLabs
+- `api/generate.js` — the backend that calls AI generation APIs
 - `vercel.json` — Vercel configuration
 
 ## Deploy to Vercel
@@ -13,13 +13,32 @@ AI-powered World Cup anthem generator. Users describe their team and get back a 
 1. Upload this folder to a GitHub repository
 2. Import the repo on vercel.com
 3. Add these environment variables in Vercel project settings:
-   - `ANTHROPIC_API_KEY` = your Anthropic API key (sk-ant-...)
-   - `ELEVENLABS_API_KEY` = your ElevenLabs API key (sk_...)
+   - `OPENAI_API_KEY` = your OpenAI API key (sk-...)
+   - `REPLICATE_API_TOKEN` = your Replicate API token (r8_...)
 4. Deploy!
 
 ## How it works
 
-1. User types a prompt describing their anthem
-2. Claude writes the lyrics + a music style description
-3. ElevenLabs turns it into a real audio file with vocals
-4. The song plays directly on the page
+1. User enters a prompt about USDC-Chan
+2. The AI generates a themed response, dialogue, or content
+3. Optional image/audio generation APIs create media assets
+4. The final result is displayed directly on the page
+
+## Features
+
+- AI-generated USDC-Chan personality responses
+- Crypto meme and branding generation
+- Fast serverless deployment with Vercel
+- Customizable prompts and themes
+- Simple frontend + API architecture
+
+## Tech Stack
+
+- HTML / JavaScript
+- Vercel Serverless Functions
+- OpenAI API
+- Replicate API
+
+## License
+
+MIT
