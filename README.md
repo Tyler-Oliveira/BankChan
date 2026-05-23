@@ -1,6 +1,6 @@
-# USDC-Chan 💙
+# Bank-Chan 💙
 
-AI-powered USDC mascot experience. Users describe a vibe, meme, or crypto scenario and get back a custom USDC-Chan response with personality, visuals, and content generation.
+AI-powered Bank mascot experience. Users describe a vibe, meme, or crypto scenario and get back a custom Bank-Chan response with personality, visuals, and content generation.
 
 ## Files
 
@@ -19,14 +19,14 @@ AI-powered USDC mascot experience. Users describe a vibe, meme, or crypto scenar
 
 ## How it works
 
-1. User enters a prompt about USDC-Chan
+1. User enters a prompt about Bank-Chan
 2. The AI generates a themed response, dialogue, or content
 3. Optional image/audio generation APIs create media assets
 4. The final result is displayed directly on the page
 
 ## Features
 
-- AI-generated USDC-Chan personality responses
+- AI-generated Bank-Chan personality responses
 - Crypto meme and branding generation
 - Fast serverless deployment with Vercel
 - Customizable prompts and themes
