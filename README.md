@@ -1,6 +1,6 @@
 # Bank-Chan 🤑
 
-AI-powered Bank mascot experience. Users describe a vibe, meme, or crypto scenario and get back a custom Bank-Chan response with personality, visuals, and content generation.
+AI-powered Banker experience. Users describe a vibe, meme, or crypto scenario and get back a custom Bank-Chan response with personality, visuals, and content generation.
 
 ## Files
 
